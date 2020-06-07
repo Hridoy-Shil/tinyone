@@ -1,0 +1,430 @@
+@media (min-width: 374px) and (max-width: 399.98px) {
+    #slider-part .inspire h2 {
+        font-size: 13px;
+    }
+
+    #slider-part .inspire h3 {
+        font-size: 12px;
+    }
+
+    #slider-part .inspire p {
+        font-size: 9px;
+    }
+
+    #slider-part .inspire ul li i {
+        font-size: 20px;
+        padding: 0px;
+    }
+
+    #slider-part .tab img {
+        height: 310px;
+        width: 180px;
+    }
+
+    #featured-area h4.sub-title {
+        font-size: 12px;
+
+    }
+
+    #featured-area h2.title {
+        font-size: 26px;
+    }
+
+    #featured-area .child-featured-area {
+        width: 100%;
+    }
+
+    #featured-area .child-featured-area:hover .left-featured i {
+        color: #ffffff;
+        background: #df4a43;
+    }
+
+    #contact-part h2 {
+        font-size: 25px;
+    }
+
+    #contact-part p {
+        font-size: 10px;
+
+    }
+
+    #contact-part .btn-custom {
+        margin-top: -38%;
+
+    }
+
+    #adderss-area p {
+        padding-left: 0px;
+        font-size: 10px;
+    }
+
+    #adderss-area ul li a {
+        font-size: 10px;
+    }
+
+ 
+    
+}
+@media (min-width: 400px) and (max-width: 439.98px) {
+
+    #slider-part .inspire h2 {
+        font-size: 13px;
+    }
+
+    #slider-part .inspire h3 {
+        font-size: 11px;
+    }
+
+    #slider-part .inspire p {
+        font-size: 9px;
+    }
+
+    #slider-part .inspire ul li i {
+        font-size: 20px;
+        padding: 0px;
+    }
+
+    #slider-part .tab img {
+        height: 310px;
+        width: 200px;
+    }
+
+    #featured-area h4.sub-title {
+        font-size: 12px;
+
+    }
+
+    #featured-area h2.title {
+        font-size: 26px;
+    }
+
+    #featured-area .child-featured-area {
+        width: 100%;
+    }
+
+    #featured-area .child-featured-area:hover .left-featured i {
+        color: #ffffff;
+        background: #df4a43;
+    }
+
+    #contact-part h2 {
+        font-size: 25px;
+    }
+
+    #contact-part p {
+        font-size: 10px;
+
+    }
+
+    #contact-part .btn-custom {
+        margin-top: -33%;
+
+    }
+
+    #adderss-area p {
+        padding-left: 0px;
+        font-size: 10px;
+    }
+
+    #adderss-area ul li a {
+        font-size: 10px;
+    }
+
+
+}
+
+@media (min-width: 440px) and (max-width: 467.98px) {
+
+    #slider-part .inspire h2 {
+        font-size: 14px;
+    }
+
+    #slider-part .inspire h3 {
+        font-size: 12px;
+         padding-bottom: 0px;
+    }
+
+
+    #slider-part .inspire p {
+        font-size: 10px;
+    }
+
+    #slider-part .inspire ul li i {
+        font-size: 22px;
+        padding: 0px;
+    }
+
+    #slider-part .tab img {
+        height: 320px;
+        width: 210px;
+        padding-right: 10px;
+    }
+
+    #featured-area h4.sub-title {
+        font-size: 12px;
+
+    }
+
+    #featured-area h2.title {
+        font-size: 26px;
+    }
+
+    #featured-area .child-featured-area {
+        width: 100%;
+    }
+
+    #featured-area .child-featured-area:hover .left-featured i {
+        color: #ffffff;
+        background: #df4a43;
+    }
+
+    #contact-part h2 {
+        font-size: 28px;
+    }
+
+    #contact-part p {
+        font-size: 12px;
+
+    }
+
+    #contact-part .btn-custom {
+        margin-top: -30%;
+
+    }
+
+    #adderss-area p {
+        padding-left: 0px;
+        font-size: 10px;
+    }
+
+    #adderss-area ul li a {
+        font-size: 12px;
+    }
+
+}
+
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (min-width: 468px) and (max-width: 575.98px) {
+
+    #slider-part .inspire h2 {
+        font-size: 16px;
+    }
+
+    #slider-part .inspire h3 {
+        font-size: 14px;
+    }
+
+    #slider-part .inspire p {
+        font-size: 12px;
+    }
+
+    #slider-part .inspire ul li i {
+        font-size: 26px;
+        padding: 0px;
+    }
+
+    #slider-part .tab img {
+        height: 380px;
+        width: 230px;
+    }
+
+    #featured-area h4.sub-title {
+        font-size: 12px;
+
+    }
+
+    #featured-area h2.title {
+        font-size: 26px;
+    }
+
+    #featured-area .child-featured-area {
+        width: 100%;
+    }
+
+    #featured-area .child-featured-area:hover .left-featured i {
+        color: #ffffff;
+        background: #df4a43;
+    }
+
+    #contact-part h2 {
+        font-size: 28px;
+    }
+
+    #contact-part p {
+        font-size: 12px;
+
+    }
+
+    #contact-part .btn-custom {
+        margin-top: -24%;
+
+    }
+
+    #adderss-area p {
+        padding-left: 0px;
+        font-size: 12px;
+    }
+
+
+
+
+
+
+
+
+
+
+}
+
+
+
+/* Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+
+    #slider-part .inspire h2 {
+        font-size: 15px;
+    }
+
+    #slider-part .inspire h3 {
+        font-size: 14px;
+    }
+
+    #slider-part .inspire p {
+        font-size: 12px;
+    }
+
+    #slider-part .inspire ul li i {
+        font-size: 25px;
+        padding: 2px;
+    }
+
+    #slider-part .tab img {
+        height: 380px;
+        width: 230px;
+        margin-left: 50px;
+    }
+
+    #featured-area h4.sub-title {
+        font-size: 12px;
+
+    }
+
+    #featured-area h2.title {
+        font-size: 28px;
+    }
+
+    #featured-area .child-featured-area {
+        width: 100%;
+    }
+
+    #featured-area .child-featured-area:hover .left-featured i {
+        color: #ffffff;
+        background: #df4a43;
+    }
+
+    #contact-part h2 {
+        font-size: 28px;
+    }
+
+    #contact-part p {
+        font-size: 11px;
+
+    }
+
+    #contact-part .btn-custom {
+        margin-top: -24%;
+
+    }
+
+    #adderss-area p {
+        padding-left: 0px;
+    }
+
+
+
+
+}
+
+
+/* Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+
+    #slider-part .inspire h2 {
+        font-size: 21px;
+    }
+
+    #slider-part .inspire h3 {
+        font-size: 16px;
+    }
+
+    #slider-part .inspire p {
+        font-size: 13px;
+    }
+
+    #slider-part .inspire ul li i {
+        font-size: 40px;
+        padding: 2px;
+    }
+
+    dl,
+    ol,
+    ul {
+        margin-bottom: -2rem;
+    }
+
+    #slider-part .tab img {
+        height: 350px;
+        width: 280px;
+        margin-left: 50px;
+    }
+
+    #featured-area .child-featured-area {
+        width: 100%;
+    }
+
+    #featured-area .child-featured-area:hover .left-featured i {
+        color: #ffffff;
+        background: #df4a43;
+    }
+
+    #contact-part p {
+        font-size: 14px;
+
+    }
+
+    #contact-part .btn-custom {
+        margin-top: -18%;
+
+    }
+
+    #adderss-area p {
+        padding-left: 0px;
+    }
+
+
+}
+
+/* Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+
+    .menu ul {
+        margin-right: 0px;
+    }
+
+    #slider-part .inspire h2 {
+        font-size: 28px;
+    }
+
+    #slider-part .inspire h3 {
+        font-size: 22px;
+    }
+
+    #contact-part .btn-custom {
+        margin-top: -14%;
+    }
+
+}
+
+
+/*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) {}
